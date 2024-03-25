@@ -22,7 +22,7 @@ try
 }
 catch(NumberFormatException e)
 {
-	out.println("Invalid number");
+	out.println("Invalid number! Please, try again");
 }
 %>
 <pre>
